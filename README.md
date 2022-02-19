@@ -1,2 +1,2 @@
 # RockPaperScissorsPy
-## made by loh1na
+**made by loh1na**
